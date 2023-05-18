@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = mylocalremote
+['remote "mylocalremote"']
+    url = /content/practica_09/dvc_repository/data
